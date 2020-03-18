@@ -27,6 +27,7 @@ stage('Threee')
     steps{
 	
      echo" BYeeee "
+     echo" Say hi"
 	 
 	}
 }
