@@ -1,0 +1,38 @@
+]pipeline
+{
+ agent any
+ 
+ stages
+ {
+   stage('Onee')
+  {
+    steps{
+	
+     echo 'Exceuted first step'
+	 
+	}
+}
+
+stage('TWoooo')
+  {
+    steps{
+	
+     input("Do you want to proceed")
+	 
+	}
+}
+
+stage('Threee')
+  {
+    steps{
+	
+     echo" BYeeee "
+	 
+	}
+}
+
+}
+
+}
+
+	
