@@ -4,7 +4,7 @@ pipeline
  
  stages
  {
-   stage('Onyueeuee')
+   stage('One')
   {
     steps{
 	
@@ -13,7 +13,7 @@ pipeline
 	}
 }
 
-stage('TWooooo')
+stage('TWo')
   {
     steps{
 	
@@ -22,7 +22,7 @@ stage('TWooooo')
 	}
 }
 
-stage('Threee')
+stage('Three')
   {
     steps{
 	
